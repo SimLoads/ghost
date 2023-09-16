@@ -1,0 +1,33 @@
+﻿{
+	"version": 1694883890,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/box-sheet0.png",
+		"images/tiledbackground.png",
+		"images/player-sheet0.png",
+		"images/cam-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/numbers-sheet0.png",
+		"images/numbers-sheet1.png",
+		"images/numbers-sheet2.png",
+		"images/numbers-sheet3.png",
+		"media/aux - syrup can 12.m4a",
+		"media/aux - syrup can 12.ogg",
+		"media/e-mu-proteus-fx-orchhit-c2.m4a",
+		"media/e-mu-proteus-fx-orchhit-c2.ogg",
+		"media/orchestra.m4a",
+		"media/orchestra.ogg",
+		"media/gun_44_mag_psem.134.m4a",
+		"media/gun_44_mag_psem.134.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"penumbra.png"
+	]
+}
